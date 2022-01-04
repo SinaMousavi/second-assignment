@@ -1,0 +1,18 @@
+output results for Dataset 1:
+
+number of clusters : 4
+number of faded clusters : 21
+number of merged clusters : 2
+time of execution : --- 0.10970616340637207 seconds --- 
+
+
+
+
+
+
+output results for Dataset 2:
+
+number of clusters : 3
+number of faded clusters : 24
+number of merged clusters : 5
+time of execution : --- 0.10867881774902344 seconds ---
